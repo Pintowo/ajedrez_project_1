@@ -16,6 +16,8 @@
         <?php
             include "piezas.php";
 
+            // ola
+
             $movement = $_POST ["movimiento"];
 
             echo "<br>";
